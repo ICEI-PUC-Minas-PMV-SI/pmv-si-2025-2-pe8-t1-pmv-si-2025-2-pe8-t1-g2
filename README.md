@@ -1,4 +1,4 @@
-# Título do Projeto
+# Uso de Business Intelligence para Diagnóstico e Otimização de Processos de Suporte Técnico da AtTime LTDA 
 
 `CURSO: Sistemas de Informação`
 
@@ -6,19 +6,19 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto de conclusão de curso propõe uma solução de Business Intelligence (BI) para a empresa AtTime LTDA, uma desenvolvedora de software especializada no sistema ERP STAR para o mercado segurador e financeiro. Foi identificada uma lacuna na análise de seus dados operacionais internos, especificamente nos registros de suporte ao cliente (Helpdesk) oriundos da plataforma Mantis.  A própria gestão reconhece a necessidade de aprimorar o acompanhamento desse processo, identificando sua otimização como uma oportunidade estratégica.
+O projeto concentra-se na análise de dados anonimizados de chamados de Help Desk para responder perguntas-chave (KIQs) sobre as categorias mais recorrentes, o tempo médio de resolução e os principais gargalos do processo. A entrega final consistirá no desenvolvimento de um dashboard interativo, contendo indicadores de desempenho (KPIs), que permitirá à gestão tomar decisões baseadas em evidências para otimizar a operação.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Amanda Costa Dutra
+* Felipe Moreira De Oliveira
+* Guilherme Augusto Pessoa de Castro
+* João Paulo Maia De Paula
+* Rafael Henrique de Souza Pereira
+* Shinji Matsumoto Fernandes
 
 
-## Orientador
+## Orientadora
 
-* Nome completo do professor 1
-
+* Simone Fernandes Queiroz
